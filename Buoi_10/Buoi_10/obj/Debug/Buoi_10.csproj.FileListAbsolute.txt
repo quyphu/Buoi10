@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\bin\Debug\Buoi_10.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\bin\Debug\Buoi_10.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\bin\Debug\Buoi_10.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.Form1.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Buoi_10\Buoi_10\obj\Debug\Buoi_10.pdb
